@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adobe/helix-website.git"
+    "url": "git+https://github.com/ax1270/demo-helix-website"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/adobe/helix-website/issues"
+    "url": "https://github.com/ax1270/demo-helix-website/issues"
   },
-  "homepage": "https://github.com/adobe/helix-website#readme",
+  "homepage": "https://github.com/ax1270/demo-helix-website#readme",
   "devDependencies": {
     "@adobe/rum-distiller": "1.16.3",
     "@babel/core": "7.27.1",
